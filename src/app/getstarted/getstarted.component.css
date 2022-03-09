@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+    background-size: cover;
+    background-image: url("../../assets/images/quiz-bnr.jpg");
+}
+
+.text-white-50 {
+    background-color: #63e774;
+}
+
+.lh-100 {
+    line-height: 1;
+}
+
+.lh-125 {
+    line-height: 1.25;
+}
